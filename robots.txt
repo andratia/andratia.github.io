@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://andratia.github.io/sitemap.andratia.gz
+Sitemap: https://andratia.github.io/app/sitemap.andratia.gz
+Sitemap: https://andratia.github.io/assets/sitemap.andratia.gz
+Sitemap: https://andratia.github.io/css/sitemap.andratia.gz
+Sitemap: https://andratia.github.io/data/sitemap.andratia.gz
+Sitemap: https://andratia.github.io/includes/sitemap.andratia.gz
+Sitemap: https://andratia.github.io/item/sitemap.andratia.gz
+Sitemap: https://andratia.github.io/src/sitemap.andratia.gz
